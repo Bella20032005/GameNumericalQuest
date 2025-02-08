@@ -28,6 +28,7 @@ namespace GameNumericalQuest
           public int Arrows { get; set; } = 5;
 
 
+
             public void LoseHealth(int count) // метод для потери здоровья
             {
                 Health -= count;
