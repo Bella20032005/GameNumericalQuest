@@ -7,7 +7,10 @@ using System.Threading.Tasks;
 namespace GameNumericalQuest
 {
     internal class Program
+
+
     { 
+
 
         static Random random = new Random();
         //созданий комнат и присвоение им номеров 
@@ -264,7 +267,9 @@ namespace GameNumericalQuest
                 }
 
 
+
             }
         }
     }
 }
+
