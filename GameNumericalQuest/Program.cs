@@ -235,7 +235,7 @@ namespace GameNumericalQuest
                     player.GiveHealth(20);
                 }
                 else
-                {
+    {
                     Console.WriteLine("Недостаточно золота или отмена покупки.");
                 }
             }
@@ -265,8 +265,6 @@ namespace GameNumericalQuest
                     Console.WriteLine($"{player.Name} погиб в подземелье...");
                     break;
                 }
-
-
 
             }
         }
